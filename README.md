@@ -1,15 +1,15 @@
 # Rubber Duck Debugging
-
+```
            _.._     
-          / a a\__, 
+          / a a\__,  
           \  -.___/ 
-           \  \     
+           \  \      
 (\__,-----,_)  \    
 (    (_         )   
  \_   (__       /   
    \___________/    
-   
-This is a rubber duck.
+```
+This is a rubber duck 🐥🦆
 
 Have you ever been stuck while coding and just needed someone to talk to? 
 Introducing Rubber Duck Debugging!
